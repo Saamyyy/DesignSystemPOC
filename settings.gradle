@@ -1,0 +1,3 @@
+include ':marshmellolib'
+include ':app'
+rootProject.name = "TalabatDesignSystem"
